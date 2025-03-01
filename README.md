@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aviral777
-- 👀 I’m interested in Python Programs to figure different values
+- 👀 I’m interested in Python Programs 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me Discord hode#9890
